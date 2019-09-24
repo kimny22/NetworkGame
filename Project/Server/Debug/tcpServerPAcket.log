@@ -1,0 +1,7 @@
+﻿  serverCode.cpp
+serverCode.cpp(97): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\um\WinSock2.h(1846): note: 'inet_ntoa' 선언을 참조하십시오.
+  Packet.cpp
+  코드를 생성하고 있습니다...
+  tcpServerPAcket.vcxproj -> C:\Users\ajtwl\Desktop\School\3-1\네트워크게임프로그래밍설계\Project\Server\Debug\serverSol.exe
+  tcpServerPAcket.vcxproj -> C:\Users\ajtwl\Desktop\School\3-1\네트워크게임프로그래밍설계\Project\Server\Debug\serverSol.pdb (Partial PDB)
